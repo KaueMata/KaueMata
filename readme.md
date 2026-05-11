@@ -26,12 +26,11 @@ Graduando em **Análise e Desenvolvimento de Sistemas**, com experiência em tes
 
 ## 📊 Estatísticas
 
-```html
+html
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueMata&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMata&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-```
 
 
 ---
