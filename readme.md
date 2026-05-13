@@ -26,8 +26,8 @@ Graduando em **Análise e Desenvolvimento de Sistemas**, com experiência em tes
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaueMata&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaueMata&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaueMata&theme=tokyonight&locale=pt-br" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaueMata&theme=tokyonight&exclude=html" />
 </p>
 
 
